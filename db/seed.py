@@ -1,5 +1,5 @@
 from app.app import db
-from models import PowersModel, HeroModel, HeroPowersModel
+from app.models import PowersModel, HeroModel, HeroPowersModel
 
 # Seed powers
 powers_data = [
